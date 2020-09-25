@@ -1,5 +1,5 @@
 # Football_Gestures
-Python code to detect some football player's celebration
+Python code to detect some football player's celebration <br>
 Libraries used-
 Numpy
 OpenCV
